@@ -35,6 +35,11 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/gabrielpramalho)](https://github.com/gabrielpramalho)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/gabrielpramalho)](https://github.com/gabrielpramalho)
 
+**Framework**
+<img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%239932CC.svg?&style=flat&logo=bootstrap&logoColor=white"/>
+
+
 **Design**
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/gabrielpramalho)
 
