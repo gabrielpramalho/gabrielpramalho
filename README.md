@@ -5,7 +5,7 @@
 
 ## About me
 
-:man_technologist: I am currently studying Computer Science at UENP - State University of Northern Paraná and I am developing a website for UENP's veterinary hospital.
+:man_technologist: I am currently studying Computer Science at UENP - State University of Northern Paraná and Full Stack Developer.
 
 
 ![Gabriel Ramalho Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielpramalho&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
