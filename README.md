@@ -5,7 +5,7 @@
 
 ## About me
 
-:man_technologist: I am currently studying Computer Science at UENP - State University of Northern Paraná and working as a Full Stack Developer at Fronte Digital.
+:man_technologist: I am currently studying Computer Science at UENP - State University of Northern Paraná and working as a Web Developer Jr at MKX E-commerce.
 
 
 
