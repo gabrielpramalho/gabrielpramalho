@@ -5,7 +5,13 @@
 
 ## About me
 
-:man_technologist: I am currently studying Computer Science at UENP - State University of Northern Paraná and working as a Web Developer Jr at MKX E-commerce.
+Hello there! I'm Gabriel Ramalho, a dedicated web developer with a degree in Computer Science from the University of North Paraná. With 2 years of hands-on experience in web development, I bring a robust skill set in technologies like  HTML, CSS, JavaScript, ReactJS , Laravel and PHP . My passion lies in crafting clean, efficient, and innovative solutions to tackle complex challenges.
+
+I'm on a continuous journey of learning and improvement, always staying updated with the latest trends and best practices in the ever-evolving tech landscape. My professional mantra is to embrace challenges as opportunities for growth, and I thrive in collaborative environments where creativity and innovation are encouraged.
+
+Beyond coding, I'm a tech enthusiast who enjoys exploring emerging technologies. I believe in the power of technology to make a positive impact, and I'm excited to contribute my skills and knowledge to open-source projects and collaborative endeavors.
+
+Let's connect, collaborate, and code something amazing together! 🚀
 
 
 
@@ -29,7 +35,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gabrielpramalho)](https://github.com/gabrielpramalho)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/gabrielpramalho)](https://github.com/gabrielpramalho)
 <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" >
-<img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white">
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/gabrielpramalho)](https://github.com/gabrielpramalho)  
 
 **Front-end**
