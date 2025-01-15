@@ -5,7 +5,7 @@
 
 ## About me
 
-Hello there! I'm Gabriel Ramalho, a dedicated web developer with a degree in Computer Science from the University of North Paraná. With 2 years of hands-on experience in web development, I bring a robust skill set in technologies like  HTML, CSS, JavaScript, ReactJS , Laravel and PHP . My passion lies in crafting clean, efficient, and innovative solutions to tackle complex challenges.
+Hello there! I'm Gabriel Ramalho, a dedicated web developer with a degree in Computer Science from the University of North Paraná. With 3 years of hands-on experience in web development, I bring a robust skill set in technologies like  HTML, CSS, JavaScript, ReactJS , Laravel and PHP . My passion lies in crafting clean, efficient, and innovative solutions to tackle complex challenges.
 
 I'm on a continuous journey of learning and improvement, always staying updated with the latest trends and best practices in the ever-evolving tech landscape. My professional mantra is to embrace challenges as opportunities for growth, and I thrive in collaborative environments where creativity and innovation are encouraged.
 
